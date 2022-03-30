@@ -18,7 +18,6 @@ body {
   margin: auto;
   background-color: rgb(194, 194, 243);
   position: relative;
-  z-index: -1;
 }
 
 /* Container */
