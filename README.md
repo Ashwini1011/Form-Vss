@@ -19,7 +19,7 @@ This project has following requirement
 ![App Screenshot](https://github.com/Ashwini1011/Form-Vss/blob/master/form-output.png)
 
 ## Click Here
-https://ashwini1011.github.io/Vss2-cart/
+https://ashwini1011.github.io/Form-Vss/
 ## Author
 
 - [@Ashwini Pote](https://github.com/Ashwini1011)
